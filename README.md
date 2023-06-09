@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align ='center'>Hey. I am Subbu Manickam.</h1>
+<h3 align = 'center'>Full Stack Developer</h3>
+<h3 align = 'center'>Welcome to the place where I build, break and rebuild stuff.</h3>
 
 <!--
 **SubbuManickam/SubbuManickam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
